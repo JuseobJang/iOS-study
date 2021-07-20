@@ -14,7 +14,7 @@
 
 - [Collection Types](./studyNote/Swift/CollectionTypes)
 
-- Functions
+- [Functions](./studyNote/Swift/Functions)
 
 - Closures
 
