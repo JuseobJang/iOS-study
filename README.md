@@ -9,27 +9,25 @@
 ## Swift
 
 - [The Basics](./studyNote/Swift/TheBasics)
-
 - [Strings & Characters](./studyNote/Swift/Strings&Characters)
-
 - [Collection Types](./studyNote/Swift/CollectionTypes)
-
 - [Functions](./studyNote/Swift/Functions)
-
-- Closures
-
+- [Closures](./studyNote/Swift/Closures)
+- Enumrations
 - Structure & Class
-
-- Attributes & Method
-
+- Properties
+- Methods
 - Optional Chaining
-
+- Concurrency
 - Type Casting
+- Nested Types
+- Protocols
+- Generics
 
 ## Design pattern
 
 - [MVC pattern](./studyNote/DesignPattern/MVC)
-
+- MVP pattern
 - [MVVM pattern](./studyNote/DesignPattern/MVVM)
-
 - VIPER pattern
+
