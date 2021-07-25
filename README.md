@@ -13,7 +13,7 @@
 - [Collection Types](./studyNote/Swift/CollectionTypes)
 - [Functions](./studyNote/Swift/Functions)
 - [Closures](./studyNote/Swift/Closures)
-- Enumrations
+- [Enumrations](./Enumerations/README.md)
 - Structure & Class
 - Properties
 - Methods
