@@ -14,7 +14,7 @@
 - [Functions](./studyNote/Swift/Functions)
 - [Closures](./studyNote/Swift/Closures)
 - [Enumerations](./studyNote/Swift/Enumerations)
-- Structure & Class
+- [Structures & Classes](./studyNote/Swift/Structures&Classes)
 - Properties
 - Methods
 - Optional Chaining
