@@ -15,7 +15,7 @@
 - [Closures](./studyNote/Swift/Closures)
 - [Enumerations](./studyNote/Swift/Enumerations)
 - [Structures & Classes](./studyNote/Swift/Structures&Classes)
-- Properties
+- [Properties](./studyNote/Swift/Properties)
 - Methods
 - Optional Chaining
 - Concurrency
