@@ -16,7 +16,7 @@
 - [Enumerations](./studyNote/Swift/Enumerations)
 - [Structures & Classes](./studyNote/Swift/Structures&Classes)
 - [Properties](./studyNote/Swift/Properties)
-- Methods
+- [Methods](./studyNote/Swift/Methods)
 - Optional Chaining
 - Concurrency
 - Type Casting
