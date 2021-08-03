@@ -1,6 +1,6 @@
 # iOS Study Note
 
-:apple: iOS 개발자가 되기 위한 정리 레포 
+:apple: iOS 개발자가 되기 위한 정리 레포
 
 <p align = "center">
   <img src="https://user-images.githubusercontent.com/22047374/125481970-3573dcb2-6e52-4669-a834-fd39846d1b5f.png" height="200px" width="200px">
@@ -32,4 +32,4 @@
 
 - [MVVM pattern](./studyNote/DesignPattern/MVVM)
 
-- VIPER pattern
+- [VIPER pattern](./studyNote/DesignPattern/VIPER)
