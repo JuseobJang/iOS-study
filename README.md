@@ -18,8 +18,7 @@
 - [Properties](./studyNote/Swift/Properties)
 - [Methods](./studyNote/Swift/Methods)
 - [Optional Chaining](./studyNote/Swift/OptionalChaining)
-- Concurrency
-- Type Casting
+- [Type Casting](./studyNote/Swift/TypeCasting)
 - Nested Types
 - Protocols
 - Generics
