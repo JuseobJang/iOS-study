@@ -19,9 +19,15 @@
 - [Methods](./studyNote/Swift/Methods)
 - [Optional Chaining](./studyNote/Swift/OptionalChaining)
 - [Type Casting](./studyNote/Swift/TypeCasting)
-- Nested Types
+- [Nested Types](./studyNote/Swift/NestedTypes)
 - Protocols
 - Generics
+
+**[Reference]**
+
+https://swift.org/
+
+https://bbiguduk.gitbook.io/swift/
 
 ## Design pattern
 
