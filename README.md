@@ -20,7 +20,7 @@
 - [Optional Chaining](./studyNote/Swift/OptionalChaining)
 - [Type Casting](./studyNote/Swift/TypeCasting)
 - [Nested Types](./studyNote/Swift/NestedTypes)
-- Protocols
+- [Protocols](studyNote/Swift/Protocols)
 - Generics
 
 **[Reference]**
