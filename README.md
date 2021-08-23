@@ -17,7 +17,7 @@
 - [Structures & Classes](./studyNote/Swift/Structures&Classes)
 - [Properties](./studyNote/Swift/Properties)
 - [Methods](./studyNote/Swift/Methods)
-- Subscripts
+- [Subscripts](./studyNote/Swift/Subscripts)
 - Inheritance
 - [Optional Chaining](./studyNote/Swift/OptionalChaining)
 - [Type Casting](./studyNote/Swift/TypeCasting)
