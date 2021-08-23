@@ -17,11 +17,15 @@
 - [Structures & Classes](./studyNote/Swift/Structures&Classes)
 - [Properties](./studyNote/Swift/Properties)
 - [Methods](./studyNote/Swift/Methods)
+- Subscripts
+- Inheritance
 - [Optional Chaining](./studyNote/Swift/OptionalChaining)
 - [Type Casting](./studyNote/Swift/TypeCasting)
 - [Nested Types](./studyNote/Swift/NestedTypes)
 - [Protocols](studyNote/Swift/Protocols)
 - Generics
+- Opaque Types
+- Automatic Reference Counting
 
 **[Reference]**
 
