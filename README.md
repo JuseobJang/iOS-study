@@ -36,8 +36,8 @@ https://github.com/JeaSungLEE/iOSInterviewquestions
 - [Type Casting](./studyNote/Swift/TypeCasting)
 - [Nested Types](./studyNote/Swift/NestedTypes)
 - [Protocols](studyNote/Swift/Protocols)
-- Generics
-- Opaque Types
+- [Generics](studyNote/Swift/Generics)
+- [Opaque Types](studyNote/Swift/OpaqueTypes)
 - Automatic Reference Counting
 
 **[Reference]**
